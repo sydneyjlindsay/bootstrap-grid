@@ -1,0 +1,43 @@
+.header {
+	background-color: #333333;
+	color: #CCCCCC;
+	padding-top:  1.5em;
+	padding-bottom: 1.5em;
+	padding-left: 3em;
+	padding-right: 3em;
+}
+
+.header img {
+	padding-top: 1.5em;
+	padding-bottom: 1.5em;
+}
+
+.sub-header {
+	background-color: #CCCCCC;
+	border-bottom: .1em solid black;
+	padding-top: 1.5em;
+	padding-bottom: 1.5em;
+	padding-left: 3em;
+	padding-right: 3em;
+}
+
+.btn {
+	width: 100%;
+	margin-top: 3em;
+	/*margin-left: 3em;*/
+}
+
+.footer {
+	background-color: #333333;
+	color: #CCCCCC;
+	padding-top: 1.5em;
+	padding-bottom: 1.5em;
+}
+
+.body {
+	padding-top: 1.5em; 
+	padding-bottom: 1.5em;
+	padding-left: 2em;
+	padding-right: 2em;
+}
+
